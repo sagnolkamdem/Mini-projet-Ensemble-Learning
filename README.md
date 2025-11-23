@@ -10,8 +10,6 @@ Requirements
   - pandas, numpy, scikit-learn, imbalanced-learn, matplotlib, keras, openpyxl
 - Quick install:
 ```sh
-python -m venv .venv
-source .venv/bin/activate
 pip install pandas numpy scikit-learn imbalanced-learn matplotlib keras openpyxl
 ```
 
